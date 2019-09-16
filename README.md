@@ -7,4 +7,4 @@ Remote Desk is desktop application in JAVA.
 
 ### Screenshot
 
-![alt text](https://raw.githubusercontent.com/praneetmehta11/Remote-desk/master/screenshot-01.png)
+![Video player screenshot](https://raw.githubusercontent.com/praneetmehta11/Remote-desk/master/screenshot-01.png)
